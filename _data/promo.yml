@@ -1,0 +1,10 @@
+- type: plugin_row
+  children:
+  - type: button
+    href: docs/index.html
+    text: 快速入门
+  - type: button
+    href: https://github.com/Budaoshi/fresco-docs-cn
+    text: 本文档源码
+
+- type: github_star
