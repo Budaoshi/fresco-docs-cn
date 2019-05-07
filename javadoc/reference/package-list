@@ -2,6 +2,7 @@ com.facebook.animated.gif
 com.facebook.animated.giflite
 com.facebook.animated.giflite.decoder
 com.facebook.animated.giflite.draw
+com.facebook.animated.giflite.drawable
 com.facebook.animated.webp
 com.facebook.binaryresource
 com.facebook.cache.common
@@ -59,6 +60,7 @@ com.facebook.imagepipeline.cache
 com.facebook.imagepipeline.common
 com.facebook.imagepipeline.core
 com.facebook.imagepipeline.datasource
+com.facebook.imagepipeline.debug
 com.facebook.imagepipeline.decoder
 com.facebook.imagepipeline.drawable
 com.facebook.imagepipeline.filter
